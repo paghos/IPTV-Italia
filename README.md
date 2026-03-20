@@ -1,3 +1,5 @@
+## This repo is a fork of Tundrak IPTV-Italia repo
+
 ![release](https://img.shields.io/github/v/release/Tundrak/IPTV-Italia) ![downloads](https://img.shields.io/github/downloads/Tundrak/IPTV-Italia/total) ![size](https://img.shields.io/github/repo-size/Tundrak/IPTV-Italia)
 # IPTV-Italia
 Questa repository contiene tutti i link ai principali canali TV e Radio nazionali italiani in tre file m3u da aprire con un qualsiasi programma che supporti file playlist. I link sono tutti estrapolati dagli stream ufficiali, e per questo dovrebbero essere visibili legalmente soltanto all'interno dell'Italia. Intendo aggiornare i link non funzionanti o aggiungere nuovi canali se vedo commenti che lo chiedono ed è nelle mie capacità farlo legalmente.
